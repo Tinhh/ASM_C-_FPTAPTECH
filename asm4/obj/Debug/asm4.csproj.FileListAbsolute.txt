@@ -1,0 +1,6 @@
+C:\Users\Tinh-PC\RiderProjects\ConsoleApplication2\asm4\bin\Debug\asm4.exe
+C:\Users\Tinh-PC\RiderProjects\ConsoleApplication2\asm4\bin\Debug\asm4.pdb
+C:\Users\Tinh-PC\RiderProjects\ConsoleApplication2\asm4\obj\Debug\asm4.csprojAssemblyReference.cache
+C:\Users\Tinh-PC\RiderProjects\ConsoleApplication2\asm4\obj\Debug\asm4.csproj.CoreCompileInputs.cache
+C:\Users\Tinh-PC\RiderProjects\ConsoleApplication2\asm4\obj\Debug\asm4.exe
+C:\Users\Tinh-PC\RiderProjects\ConsoleApplication2\asm4\obj\Debug\asm4.pdb
